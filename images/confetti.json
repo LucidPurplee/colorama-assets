@@ -1,5 +1,5 @@
 {
   "albedo": "https://cdn2.testingsweb.com/images/bitmaps/albedo/confettialbedo.bmp",
   "depth": "https://cdn2.testingsweb.com/images/bitmaps/depth/confettidepth.bmp",
-  "depthStrength": 1.0
+  "depthStrength": 0.2
 }
