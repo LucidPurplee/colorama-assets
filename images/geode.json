@@ -1,0 +1,5 @@
+{
+  "albedo": "https://cdn2.testingsweb.com/images/bitmaps/albedo/geodealbedo.bmp",
+  "depth": "https://cdn2.testingsweb.com/images/bitmaps/depth/geodedepth.bmp",
+  "depthStrength": 1.0
+}
